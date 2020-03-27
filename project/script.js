@@ -1,6 +1,6 @@
-'use strict';
+/*'use strict';
 let a = 5;
-console.log(a);
+console.log(a);*/
 /*alert(1);
 var leftBorderWidth = 1;
 let second = 2;
@@ -35,7 +35,7 @@ console.log(leftBorderWidth);*/
 //console.log(typeof(answer));
 
 
-let incr = 10,
+/*let incr = 10,
     decr = 10;
 
 
@@ -46,4 +46,4 @@ console.log("2" == 2);
 
 let isChecked = false,
     isClose = false;
-console.log(isChecked || !isClose);
+console.log(isChecked || !isClose);*/

@@ -1,3 +1,3 @@
-let mySalary = prompt("Enter your salary for month"," ");
+/*let mySalary = prompt("Enter your salary for month"," ");
 
-console.log(Date);
+console.log(Date);*/

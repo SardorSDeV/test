@@ -30,17 +30,17 @@ console.log(undefined);
 
 console.log(Symbol());
 
- /**
+ /** 
  * Типы данных:
  * 2. Объекты. (Reference type) Передаються по ссылке.
  * - Object: { name: 'Denis', age: 30 }
- *  * Array: [1, 2, 3]
- *  * Function: function foo() {}
- *  * Date: new Date()
+ *  - Array: [1, 2, 3]
+ *  - Function: function foo() {}
+ *  - Date: new Date()
  *  ....
- */
+ **/
 
- console.table({ name: 'Denis', age: 30 });
+ console.table({ name: 'Sardor', age: 27 });
  console.log([1, 2, 3, 4]);
 
  /**
@@ -48,5 +48,6 @@ console.log(Symbol());
  * 1. JS динамически типизированный язык
  * 2. Одна и та же переменная может хранить в себе любой тип данных
  * 3. Нам не нужно определять тип данных при создании переменных
- * 4. Если мы хотим использовать статическую типизацию мы можем использовать TypeScript или Flow
+ * 4. Если мы хотим использовать статическую типизацию мы можем использовать 
+ * TypeScript  или  Flow
  */

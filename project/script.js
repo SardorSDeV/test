@@ -47,3 +47,18 @@ console.log("2" == 2);
 let isChecked = false,
     isClose = false;
 console.log(isChecked || !isClose);*/
+
+
+let box = document.getElementById('box'),
+    btn = document.getElementsByTagName('button'),
+    circle = document.getElementsByClassName('circle'),
+    heart = document.querySelectorAll('.heart'),
+    oneHeart = document.querySelector('.heart');
+console.log(box);
+console.log(btn);
+console.log(btn[0]);
+console.log(circle[2]);
+console.log(heart);
+console.log(oneHeart);
+
+box.style.backgroundColor = 'blue';
